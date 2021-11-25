@@ -1,7 +1,7 @@
 # DSA-Codes
 
 <ol>
-<li>Create an Array of Subjects you are having in your current semester</li>
+<li>Create an array of Subjects you are having in your current semester</li>
 <li>Create an array of 10 elements and display it in Reverse Form</li>
 <li>Create a multidimensional Array and print it</li>
 <li>Create a multidimensional Array and Perform Sum Operation</li>
