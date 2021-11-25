@@ -1,4 +1,4 @@
-# DSA-Codes
+# DSA Codes
 
 <ol>
 <li>Create an array of Subjects you are having in your current semester</li>
