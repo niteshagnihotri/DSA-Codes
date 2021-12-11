@@ -15,5 +15,8 @@
 <li>Create a Doubly LinkedList and Traverse It</li>
 <li>Create a Stack using Array</li>
 <li>Create a Stack using LinkedList</li>
-<li>Create Queue and Perform Operations</li>
+<li>Search an element in Binary Search Tree</li>
+<li>Insert an element in Binary Search Tree</li>
+<li>Check the tree is BST or not and All Types of Traversal in BST</li>
+<li>Binary Tree using Linked List</li>
 </ol>
